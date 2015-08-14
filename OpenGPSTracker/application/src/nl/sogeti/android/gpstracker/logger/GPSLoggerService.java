@@ -491,7 +491,7 @@ public class GPSLoggerService extends Service implements LocationListener
 
                if (mStatusMonitor)
                {
-                  soundGpsSignalAlarm();
+                  // soundGpsSignalAlarm();
                }
 
             }
