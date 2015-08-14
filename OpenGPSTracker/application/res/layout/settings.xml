@@ -187,7 +187,7 @@
             android:summary="@string/streambroadcast_distance_summary"
             android:dialogMessage="@string/streambroadcast_distance_summary"
             android:defaultValue="5"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:singleLine="true"
             android:dependency="STREAM_ENABLED" />
          <CheckBoxPreference
