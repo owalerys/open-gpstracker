@@ -253,7 +253,7 @@ Enter number of feet for acres/hour or meters for use in hectares/hour.\n </stri
     <string name="streamenabled_title">Streaming enabled</string>
     <string name="streamenabled_summary">Enable direct broadcasting of location</string>
     <string name="streambroadcast_time_title">Minimum time between broadcasts</string>
-    <string name="streambroadcast_time_summary">Number of minutes after which new progress is broadcasted</string>
+    <string name="streambroadcast_time_summary">Number of seconds after which new progress is broadcasted</string>
     <string name="streambroadcast_distance_title">Minimum distance between broadcasts</string>
     <string name="streambroadcast_distance_summary">Number of miles or kilometers after which new progress is broadcasted</string>
     <string name="voiceover_title">Stream to audio voice-over</string>
